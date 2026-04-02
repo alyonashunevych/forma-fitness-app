@@ -9,15 +9,15 @@
 
 ### 🟢 Welcome Page
 - Landing page before registration 
-![Welcome](./src/images/screenshots/welcome1.png)
-![Welcome](./src/images/screenshots/welcome2.png)
-![Welcome](./src/images/screenshots/welcome3.png)
+![Welcome](./src/images/screenshots/welcome-1.png)
+![Welcome](./src/images/screenshots/welcome-2.png)
+![Welcome](./src/images/screenshots/welcome-3.png)
 
 ### 📝 Create Account
 - User registration form  
-![Signup](./src/images/screenshots/signup.png)
+![Signup](./src/images/screenshots/signup1.png)
 - Input of personal data and fitness parameters  
-![Signup](./src/images/screenshots/signup2.png)
+![Signup](./src/images/screenshots/params1.png)
 
 ### 📊 User Dashboard
 - Personal statistics, progress charts, workout calendar and user profile information 
