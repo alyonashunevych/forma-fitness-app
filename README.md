@@ -2,33 +2,42 @@
 
 **FORMA** is a web application designed to help users achieve their fitness goals through customized workout plans, progress tracking, and smart recommendations based on personal data.
 
+---
+
 ## 🔗 Demo  
 👉 Try it here: [Forma Fitness App Demo](https://alyonashunevych.github.io/forma-fitness-app/)
 
 ## 📸 Screenshots
 
 ### 🟢 Welcome Page
-- Landing page before registration 
+- Landing page before registration
+
 ![Welcome](./src/images/screenshots/welcome-1.png)
 ![Welcome](./src/images/screenshots/welcome-2.png)
 ![Welcome](./src/images/screenshots/welcome-3.png)
 
 ### 📝 Create Account
-- User registration form  
+- User registration form
+
 ![Signup](./src/images/screenshots/signup1.png)
 - Input of personal data and fitness parameters  
+
 ![Signup](./src/images/screenshots/params1.png)
 
 ### 📊 User Dashboard
 - Personal statistics, progress charts, workout calendar and user profile information 
+
 ![Dashboard](./src/images/screenshots/dashboard.png)
 
 ### 🏋️ Workout Flow
 - Cardio stage  
+
 ![Workout](./src/images/screenshots/plan1.png)
 - Strength training exercises  
+
 ![Workout](./src/images/screenshots/plan2.png)
 - Workout completion summary  
+
 ![Workout](./src/images/screenshots/plan3.png)
 
 ---
