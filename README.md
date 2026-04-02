@@ -5,8 +5,6 @@
 ## 🔗 Demo  
 👉 Try it here: [Forma Fitness App Demo](https://alyonashunevych.github.io/forma-fitness-app/)
 
----
-
 ## 📸 Screenshots
 
 ### 🟢 Welcome Page
