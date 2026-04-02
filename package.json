@@ -1,9 +1,9 @@
 {
-  "name": "forma-app",
+  "name": "forma-fitness-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://alyonashunevych.github.io/forma-app",
+  "homepage": "https://alyonashunevych.github.io/forma-fitness-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

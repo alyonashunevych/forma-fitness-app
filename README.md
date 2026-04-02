@@ -2,6 +2,39 @@
 
 **FORMA** is a web application designed to help users achieve their fitness goals through customized workout plans, progress tracking, and smart recommendations based on personal data.
 
+## 🔗 Demo  
+👉 Try it here: [Forma Fitness App Demo](https://alyonashunevych.github.io/forma-fitness-app/)
+
+---
+
+## 📸 Screenshots
+
+### 🟢 Welcome Page
+- Landing page before registration 
+![Welcome](./src/images/screenshots/welcome1.png)
+![Welcome](./src/images/screenshots/welcome2.png)
+![Welcome](./src/images/screenshots/welcome3.png)
+
+### 📝 Create Account
+- User registration form  
+![Signup](./src/images/screenshots/signup.png)
+- Input of personal data and fitness parameters  
+![Signup](./src/images/screenshots/signup2.png)
+
+### 📊 User Dashboard
+- Personal statistics, progress charts, workout calendar and user profile information 
+![Dashboard](./src/images/screenshots/dashboard.png)
+
+### 🏋️ Workout Flow
+- Cardio stage  
+![Workout](./src/images/screenshots/plan1.png)
+- Strength training exercises  
+![Workout](./src/images/screenshots/plan2.png)
+- Workout completion summary  
+![Workout](./src/images/screenshots/plan3.png)
+
+---
+
 ## 🎯 Features
 
 - 📋 Sign up and create a personal profile  
@@ -38,9 +71,9 @@
   - Spring Security (JWT-based auth)  
   - PostgreSQL  
   - MapStruct (DTO mapping)  
-  - JPA / Hibernate 
+  - JPA / Hibernate  
 
-   [Backend repository](https://github.com/alyonashunevych/forma-app_backend)
+  [Backend repository](https://github.com/alyonashunevych/forma-app_backend)
 
 - **Database**:  
   - PostgreSQL (users, exercises, plans, training history, sets history, etc.)
